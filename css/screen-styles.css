@@ -20,3 +20,11 @@ input, select {    vertical-align:middle;}
 body {
 }
 
+#header {
+    padding-top: 10px;
+    background: url(../images/color-theme_240x5.jpg) repeat-x;
+}
+#header .logo {
+    display: block;
+    margin: 15px auto;
+}
