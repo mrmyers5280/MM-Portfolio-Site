@@ -18,6 +18,7 @@ input, select {    vertical-align:middle;}
 
 /* Generic Styles */
 body {
+    font-family: Tahoma, 'Microsoft Sans Serif', Arial, sans-serif;
 }
 h1 {
     font-family: Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
