@@ -2,3 +2,30 @@
 
 body {
 }
+
+#header {
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+#header .logo {
+    display: block;
+    margin: 15px auto;
+}
+#header h1 {
+    margin: 20px auto 35px auto;
+    text-align: center;
+    font-family: Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
+    font-size: 4em;
+}
+#my-job-title {
+    display: block;
+    width: 100%;
+    height: 150px;
+    line-height: 3.15em;
+}
+#my-job-title h3 {
+    text-align: center;
+}
+#my-job-title h4 {
+    text-align: center;
+}
