@@ -22,15 +22,15 @@ body {
 }
 h1 {
     font-family: Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
-    font-size: 4em;
+    font-size: 3em;
+}
+h2 {
+    font-family: 'JLS Space GothicR', Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
+    font-size: 2em;
 }
 h3 {
     font-family: 'JLS Space GothicR', Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
-    font-size: 3em;
-}
-h4 {
-    font-family: 'JLS Space GothicR', Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
-    font-size: 2.5em;
+    font-size: 1.5em;
 }
 #header {
     background: url(../images/color-theme_240x5.jpg) repeat-x;
