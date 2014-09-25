@@ -41,3 +41,13 @@
     width: 175px;
     margin-right: 25px;
 }
+
+
+#footer-quotes {
+    width: 75%;
+    float: left;
+}
+#footer-media {
+    width: 24%;
+    float: right;
+}
