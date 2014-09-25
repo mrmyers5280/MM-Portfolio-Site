@@ -20,6 +20,10 @@ input, select {    vertical-align:middle;}
 body {
     font-family: Tahoma, 'Microsoft Sans Serif', Arial, sans-serif;
 }
+.my-content {
+    width: 980px;
+    margin: 0 auto;
+}
 h1 {
     font-family: Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
     font-size: 3em;
@@ -27,6 +31,7 @@ h1 {
 h2 {
     font-family: 'JLS Space GothicR', Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
     font-size: 2em;
+    
 }
 h3 {
     font-family: 'JLS Space GothicR', Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
@@ -38,4 +43,7 @@ h3 {
 #my-job-title {
     color: #afad94;
     background-color: #002f2f;
+}
+.clear {
+    clear: both;
 }
