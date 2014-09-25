@@ -25,6 +25,11 @@ body {
     width: 980px;
     margin: 0 auto;
 }
+#footer {
+    height: 200px;
+    color: #002f2f;
+    background-color: #046380;
+}
 h1 {
     font-family: Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
     font-size: 3em;
