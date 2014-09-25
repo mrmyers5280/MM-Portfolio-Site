@@ -1,8 +1,5 @@
 /**** Styles for screens larger than 801px ****/
 
-body {
-}
-
 #header {
     padding-top: 10px;
     margin-bottom: 30px;
@@ -37,4 +34,9 @@ body {
 #callout {
     width: 39%;
     float: right;
+}
+#main-content img {
+    float: left;
+    width: 175px;
+    margin-right: 25px;
 }
