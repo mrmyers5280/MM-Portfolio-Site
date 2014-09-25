@@ -19,6 +19,7 @@ input, select {    vertical-align:middle;}
 /* Generic Styles */
 body {
     font-family: Tahoma, 'Microsoft Sans Serif', Arial, sans-serif;
+    background-color: #efecca;
 }
 .my-content {
     width: 980px;
@@ -39,6 +40,7 @@ h3 {
 }
 #header {
     background: url(../images/color-theme_240x5.jpg) repeat-x;
+    background-color: #ffffff;
 }
 #my-job-title {
     color: #afad94;
