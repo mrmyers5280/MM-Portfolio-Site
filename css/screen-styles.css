@@ -21,14 +21,12 @@ body {
     font-family: Tahoma, 'Microsoft Sans Serif', Arial, sans-serif;
     background-color: #efecca;
 }
+.clear {
+    clear: both;
+}
 .my-content {
     width: 980px;
     margin: 0 auto;
-}
-#footer {
-    height: 200px;
-    color: #002f2f;
-    background-color: #046380;
 }
 h1 {
     font-family: Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
@@ -51,6 +49,8 @@ h3 {
     color: #afad94;
     background-color: #002f2f;
 }
-.clear {
-    clear: both;
+#footer {
+    height: 200px;
+    color: #002f2f;
+    background-color: #046380;
 }
