@@ -51,3 +51,15 @@
     width: 24%;
     float: right;
 }
+#footer-quotes h2 {
+    padding-top: 25px;
+}
+#footer-quotes blockquote {
+    display: block;
+    max-width: 600px;
+    margin: 15px 0 20px 20px;
+}
+#footer .quote-source {
+    display: block;
+    padding-left: 20px;
+}
