@@ -23,6 +23,7 @@ body {
 }
 .clear {
     clear: both;
+    line-height: 1px;
 }
 .my-content {
     width: 980px;
@@ -40,6 +41,9 @@ h2 {
 h3 {
     font-family: 'JLS Space GothicR', Orbitron, 'OCR A', 'Serpentine Sans ICG', sans-serif;
     font-size: 1.5em;
+}
+nav {
+    background-color: #046380;
 }
 #header {
     background: url(../images/color-theme_240x5.jpg) repeat-x;
