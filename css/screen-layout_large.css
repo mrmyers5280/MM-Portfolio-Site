@@ -50,6 +50,12 @@ nav {
     width: 100%;
     position: absolute;
 }
+nav .first {
+    margin-left: 0px;
+}
+nav .last {
+    margin-right: 0px;
+}
 nav a {
     margin: 12px 0px 10px 20px;
 }
