@@ -45,6 +45,12 @@ h3 {
 nav {
     background-color: #046380;
 }
+nav a {
+    color: #afad94;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
 #header {
     background: url(../images/color-theme_240x5.jpg) repeat-x;
     background-color: #ffffff;
