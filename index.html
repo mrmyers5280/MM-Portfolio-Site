@@ -12,7 +12,7 @@
 		<!--[if lt IE 9]>
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-
+        <script src="js/jquery-1.11.1.min.js"></script>
     </head>
     <body>
         <header id="header">
@@ -39,30 +39,37 @@
             </section>
             <div class="clear">&nbsp;</div>
         </div>
-            <nav id="main-nav-wrapper">
-                <a class="first" href="#">Portfolio</a>
-                <a href="#">Blog</a>
-                <a class="last" href="#">About</a>
-            </nav>
-            <footer id="footer">
-                <div class="my-content">
-                <section id="footer-quotes">
-                    <h2>Here's What Others Have to Say</h2>
-                    <blockquote>During the course of his employment, Mike's performance was exemplary. He proved himself to be a loyal, dependable and conscientious employee, a hard worker with solid problem solving and technical skills, a great team player and an exceptional communicator.
-                        <p><span class="quote-source">Diann Duino, Director of Information Technology at US District Court & US Probation Office, Colorado</span></p>
-                    </blockquote>                    
-                    <blockquote>Brings balance to just about any team he's a part of. 
-                        <p><span class="quote-source">Chewbaxter, General of Awesome</span></p>
-                    </blockquote>
-                </section>
-                <section id="footer-media">
-                    <ul>
-                        <li>LinkedIn</li>
-                        <li>Behance</li>
-                        <li>GitHub</li>
-                    </ul>
-                </section>
-                </div>
-            </footer>
+        <nav id="main-nav-wrapper">
+            <a class="first" href="#">Portfolio</a>
+            <a href="#">Blog</a>
+            <a class="last" href="#">About</a>
+        </nav>
+        <footer id="footer">
+            <div class="my-content">
+            <section id="footer-quotes">
+                <h2>Here's What Others Have to Say</h2>
+                <blockquote>During the course of his employment, Mike's performance was exemplary. He proved himself to be a loyal, dependable and conscientious employee, a hard worker with solid problem solving and technical skills, a great team player and an exceptional communicator.
+                    <p><span class="quote-source">Diann Duino, Director of Information Technology at US District Court & US Probation Office, Colorado</span></p>
+                </blockquote>
+                <blockquote>Brings balance to just about any team he's a part of. 
+                    <p><span class="quote-source">Chewbaxter, General of Awesome</span></p>
+                </blockquote>
+            </section>
+            <section id="footer-media">
+                <ul>
+                    <li>LinkedIn</li>
+                    <li>Behance</li>
+                    <li>GitHub</li>
+                </ul>
+            </section>
+            </div>
+        </footer>
+        <script>
+            $(function () {
+                console.log($('#main-content img').length + ' elements!');
+                $('#main-content img').width(160);
+                $('#main-content img').height(200);
+            });
+        </script>
     </body>
 </html>
