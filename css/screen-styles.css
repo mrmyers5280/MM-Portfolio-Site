@@ -54,7 +54,7 @@ nav a {
 }
 #header {
     background: url(../images/color-theme_240x5.jpg) repeat-x;
-    background-color: #ffffff;
+    background-color: #D6D3B4;
 }
 #my-job-title {
     color: #afad94;
@@ -63,7 +63,7 @@ nav a {
 #footer {
     height: 250px;
     color: #002f2f;
-    background-color: #046380;
+    background-color: #AFAD94;
 }
 #footer .quote-source {
     font-style: italic;
