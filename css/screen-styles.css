@@ -20,6 +20,8 @@ input, select {    vertical-align:middle;}
 body {
     font-family: Tahoma, 'Microsoft Sans Serif', Arial, sans-serif;
     background-color: #efecca;
+    background: url(../images/iPhone-577.jpg) no-repeat;
+    background-attachment: fixed;
 }
 .clear {
     clear: both;
