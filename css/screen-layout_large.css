@@ -28,8 +28,9 @@
     text-align: center;
     font-size: 2.5em;
 }
-.my-content {
-    margin-top: 75px;
+.main {
+    background-color: #efecca;
+    padding: 20px;
 }
 #main-content {
     width: 60%;
