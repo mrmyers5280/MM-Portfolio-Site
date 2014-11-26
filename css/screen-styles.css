@@ -54,6 +54,11 @@ nav a {
     background: url(../images/color-theme_240x5.jpg) repeat-x;
     /*background-color: #D6D3B4;*/
 }
+#header .logo {
+    font-family: 'JLS Space GothicR';
+    font-size: 132px;
+    text-shadow: 4px 4px #afad94;
+}
 #my-job-title {
     color: #afad94;
     background-color: #002f2f;
